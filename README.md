@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 현연입니다
 
-<h1 align="center">Hi, I'm MCSSAM</h1>
+<h1 align="center">Hi, I'm HYKIM</h1>
 <h3 align="center">
   Front-End & Back-End 풀스택 개발자이고싶은 김현연입니다.
 </h3>
