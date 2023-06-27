@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 현연입니다
 
+<h1 align="center">Hi, I'm MCSSAM</h1>
+<h3 align="center">
+  Front-End & Back-End 풀스택 개발자이고싶은 김현연입니다.
+</h3>
+<br /><br />
+<p>
+안녕하세요, 저는 김현연입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다.
+구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
+</p>
+
 **languages and tools :**
 <!-- 뱃지 사용방법 -->
   <!-- 뱃지 아이콘 사이트 -->
