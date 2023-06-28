@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm HYKIM</h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 개발자이고싶은 김현연입니다.
+  Front-End & Back-End 풀스택 개발자 준비생 김현연입니다.
 </h3>
 <br /><br />
 <p>
-안녕하세요, 저는 김현연입니다. 소프트웨어에 대한 나의 열정은 아이디어를 꿈꾸고 우아한 인터페이스로 실현하는 것입니다.
-구글링을 통한 오픈 소스 커뮤니티에서 많은 것을 배웠고 오픈 소스를 통해 어떻게 협업과 지식 공유가 이루어졌는지를 좋아합니다.
+안녕하세요, 저는 김현연입니다. 풀스택 개발자 준비중이고 현재 프론트엔드 취업을 희망하고 있습니다.
 </p>
 
 **languages and tools :**
