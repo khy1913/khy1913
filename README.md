@@ -1,29 +1,11 @@
-### Hi there 👋
-
-<!--
-**khy1913/khy1913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-현연입니다
-
 <h1 align="center">Hi, I'm HYKIM</h1>
 <h3 align="center">
-  Front-End & Back-End 풀스택 개발자 준비생 김현연입니다.
+  Front-End 개발자 김현연입니다.
 </h3>
 <br /><br />
 <p>
-안녕하세요, 저는 김현연입니다. 풀스택 개발자 준비중이고 현재 프론트엔드 취업을 희망하고 있습니다.
+안녕하세요, 김현연입니다.
+신입 프론트엔드 개발자입니다.
 </p>
 
 **languages and tools :**
